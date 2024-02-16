@@ -1,0 +1,321 @@
+17:18:21:536 (00008056) > [Startup] Shadow of the Tomb Raider
+17:18:21:536 (00008056) > [Startup] ==============
+17:18:21:536 (00008056) > [Startup] 
+17:18:21:536 (00008056) > [Startup] Build: v1.0 build 449.0_64
+17:18:21:536 (00008056) > [Startup] Windows 10.0 (build 19045)
+17:18:21:536 (00008056) > [Startup] Game directory: C:\Users\Iftekhar\Documents\Shadow of the Tomb Raider\
+17:18:21:536 (00008056) > [Startup] 
+17:18:21:536 (00008056) > [Startup] Memory statistics:
+17:18:21:536 (00008056) > [Startup]   Total RAM = 13.9 GB (14284 MB)
+17:18:21:536 (00008056) > [Startup]   Avail RAM = 9.1 GB (9333 MB)
+17:18:21:536 (00008056) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+17:18:21:536 (00008056) > [Startup]   Avail virtual memory = 131064.8 GB (134210316 MB)
+17:18:21:536 (00008056) > [Startup] 
+17:18:21:536 (00008056) > [NxApp] PreInit
+17:18:21:536 (00008056) > [Steam] Initializing.
+17:18:21:551 (00008056) > [Steam] Successfully initialized.
+17:18:21:551 (00008056) > [Epic] Initializing Epic SDK.
+17:18:23:004 (00008056) > [Epic] Initialized. Setting Logging Callback ...
+17:18:23:004 (00008056) > [Epic] Logging Callback Set
+17:18:23:004 (00008056) > [Epic] Creating platform.
+17:18:23:067 (00008056) > [Epic] LogEOSOverlay: Overlay will not load, because the binary's path is not configured
+17:18:23:489 (00008056) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+17:18:23:489 (00008056) > [Epic] Platform created.
+17:18:23:489 (00008056) > [SwapChain] Initializing...
+17:18:23:489 (00008056) > [DXGI] Initializing...
+17:18:23:536 (00008056) > [DXGI] Created DXGIFactory1
+17:18:23:536 (00008056) > [DXGI] Successfully initialized.
+17:18:23:536 (00008056) > [Render] Enumerating adapters:
+17:18:23:536 (00008056) > [Render] 	Adapter 0:
+17:18:23:536 (00008056) > [Monitor] 		Description             : AMD Radeon(TM) Vega 8 Graphics
+17:18:23:536 (00008056) > [Monitor] 		Vendor                  : AMD (1002)
+17:18:23:536 (00008056) > [Monitor] 		Device                  : 15d8
+17:18:23:536 (00008056) > [Monitor] 		Sub system              : 7c521462
+17:18:23:536 (00008056) > [Monitor] 		Revision                : 201
+17:18:23:536 (00008056) > [Monitor] 		Dedicated Video Memory  : 2033 MB
+17:18:23:536 (00008056) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:18:23:536 (00008056) > [Monitor] 		Shared System Memory    : 7142 MB
+17:18:23:536 (00008056) > [Monitor] 
+17:18:23:536 (00008056) > [Render] Loading ADL...
+17:18:23:848 (00008056) > [Render] AGS init succeeded
+17:18:23:848 (00008056) > [Render] AGS Radeon Software Version: 20.10.44
+17:18:23:848 (00008056) > [Render] Done loading ADL and AGS
+17:18:23:848 (00008056) > [Render] 	Adapter 1:
+17:18:23:848 (00008056) > [Monitor] 		Description             : Microsoft Basic Render Driver
+17:18:23:848 (00008056) > [Monitor] 		Vendor                  : Unknown (1414)
+17:18:23:848 (00008056) > [Monitor] 		Device                  : 8c
+17:18:23:848 (00008056) > [Monitor] 		Sub system              : 0
+17:18:23:848 (00008056) > [Monitor] 		Revision                : 0
+17:18:23:848 (00008056) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+17:18:23:848 (00008056) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:18:23:848 (00008056) > [Monitor] 		Shared System Memory    : 7142 MB
+17:18:23:848 (00008056) > [Monitor] 
+17:18:23:848 (00008056) > [Render] Enumerating monitors:
+17:18:23:848 (00008056) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+17:18:23:848 (00008056) > [Render] 
+17:18:24:129 (00008056) > [Render] AMD Extension Version: 9.1
+
+17:18:24:129 (00008056) > [Render] AMD HD3D Extension created.
+17:18:24:129 (00008056) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
+17:18:24:129 (00008056) > [Render] Enumerating Display Modes:
+17:18:24:129 (00008056) > [Render] Querying ADL for Eyefinity modes
+17:18:24:129 (00008056) > [Render] 	Monitor '1 (AMD Radeon(TM) Vega 8 Graphics(1))' (0000000000010001):
+17:18:24:129 (00008056) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  2 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  3 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  4 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  5 :  832 x  624 @  75 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  6 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  7 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 10 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 11 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 12 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 13 : 1152 x  872 @  75 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 14 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 15 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 16 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 17 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 18 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 19 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 20 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 21 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 22 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 23 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 24 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 25 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 26 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 27 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] 		- Mode 28 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+17:18:24:129 (00008056) > [Render] ***** Additional Monitor Output Info *****
+17:18:24:129 (00008056) > [Render] 		BitsPerColor: 8
+17:18:24:129 (00008056) > [Render] 		Primaries: R=0.6309;0.3486  G=0.3408;0.6221  B=0.1523;0.0576  White-Point=0.3135;0.3291
+17:18:24:129 (00008056) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+17:18:24:129 (00008056) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+17:18:24:129 (00008056) > [Render] ******************************************
+17:18:24:129 (00008056) > [Render] 
+17:18:24:129 (00008056) > [Render] AMD: Released AMD Extension.
+17:18:24:129 (00008056) > [SwapChain] Successfully initialized.
+17:18:24:129 (00008056) > [NxApp] PreInit successful.
+17:18:24:129 (00008056) > [Main] Current directory: E:\tomb\Shadow of the Tomb Raider Definitive Edition
+17:18:24:129 (00008056) > [Main] Working directory: E:\tomb\Shadow of the Tomb Raider Definitive Edition
+17:18:24:129 (00008056) > [SKU] Activating WWW SKU
+17:18:24:333 (00008056) > [MultiCore] CPU count: logical = 4
+17:18:25:520 (00008056) > [Main] Steam Language: 'english'
+17:18:25:520 (00008056) > [Main] Settings: Text Language: 'en-us' | VO Language: 'en-us' | Steam Game Language 'en-us'
+17:18:25:520 (00008056) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
+17:18:25:973 (00008056) > [Validate Settings] Monitor #0
+17:18:25:973 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:25:973 (00008056) > [NxApp] Querying GPU Driver Info...
+17:18:26:036 (00008056) > [NxApp] Enumerating available display adapters:
+17:18:26:036 (00008056) > [NxApp] 		AMD Radeon(TM) Vega 8 Graphics (active)
+17:18:26:036 (00008056) > [NxApp] Successfully found GPU Driver Info
+17:18:32:271 (00008056) > [Validate Settings] Monitor #0
+17:18:32:271 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:271 (00008056) > [Validate Settings] Monitor #0
+17:18:32:271 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:286 (00008056) > [Validate Settings] Monitor #0
+17:18:32:286 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:286 (00008056) > [Validate Settings] Monitor #0
+17:18:32:286 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:302 (00008056) > [Validate Settings] Monitor #0
+17:18:32:302 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:302 (00008056) > [Validate Settings] Monitor #0
+17:18:32:302 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:302 (00008056) > [Validate Settings] Monitor #0
+17:18:32:302 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:318 (00008056) > [Validate Settings] Monitor #0
+17:18:32:318 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:318 (00008056) > [Validate Settings] Monitor #0
+17:18:32:318 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:318 (00008056) > [Validate Settings] Monitor #0
+17:18:32:318 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:333 (00008056) > [Validate Settings] Monitor #0
+17:18:32:333 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:333 (00008056) > [Validate Settings] Monitor #0
+17:18:32:333 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:333 (00008056) > [Validate Settings] Monitor #0
+17:18:32:333 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:333 (00008056) > [Validate Settings] Monitor #0
+17:18:32:333 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:333 (00008056) > [Validate Settings] Monitor #0
+17:18:32:333 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:32:333 (00008056) > [Validate Settings] Monitor #0
+17:18:32:333 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:35:720 (00008056) > [Validate Settings] Monitor #0
+17:18:35:720 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:36:279 (00008056) > [D3D] Max supported feature level: 11.0
+17:18:36:343 (00006428) > [Render] VMEM Budget: 8460 MB
+17:18:36:343 (00006428) > [Render] VMEM Avaialbe: 8459 MB
+17:18:36:343 (00006428) > [Render] GPU node count: 1
+17:18:36:664 (00008056) > [NxApp] Querying GPU Driver Info...
+17:18:36:665 (00008056) > [NxApp] Enumerating available display adapters:
+17:18:36:666 (00008056) > [NxApp] 		AMD Radeon(TM) Vega 8 Graphics (active)
+17:18:36:667 (00008056) > [NxApp] Successfully found GPU Driver Info
+17:18:36:667 (00008056) > [NxApp] Driver Desc: AMD Radeon(TM) Vega 8 Graphics
+17:18:36:667 (00008056) > [NxApp] Driver Version: 27.20.11044.7
+17:18:36:667 (00008056) > [Settings] DirectX Version: 12
+17:18:36:667 (00008056) > [Settings] Window mode:
+17:18:36:667 (00008056) > [Settings] 	Fullscreen: 0
+17:18:36:667 (00008056) > [Settings] 	Excl.Fullscreen: 0
+17:18:36:667 (00008056) > [Settings] 	Monitor: 0
+17:18:36:667 (00008056) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 1600 h: 900
+17:18:36:667 (00008056) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 1600 h: 860
+17:18:36:667 (00008056) > [Settings] 		Aspect Ratio: 1.760000 (Pixel Aspect Ratio: 1.010101)
+17:18:36:667 (00008056) > [Settings] Fullscreen display mode:
+17:18:36:667 (00008056) > [Settings] 	Display mode: 1600x900@60
+17:18:36:667 (00008056) > [Settings] 		VSync: 0
+17:18:36:667 (00008056) > [Settings] 		MultiMonitor: 0
+17:18:36:667 (00008056) > [Settings] 		BezelCorrected: 0
+17:18:36:667 (00008056) > [Settings] 		Stereoscopic3D: 0
+17:18:36:667 (00008056) > [Settings] 		SHDR: 0
+17:18:36:667 (00008056) > [Settings] Window settings:
+17:18:36:667 (00008056) > [Settings] 	Window rect: x: 200 y: 112 w: 1200 h: 675
+17:18:36:667 (00008056) > [Settings] 	User window: w: 1200 h: 675
+17:18:36:667 (00008056) > [Settings] 	Window maximized: 0
+17:18:36:667 (00008056) > [Settings] Graphics Options:
+17:18:36:667 (00008056) > [Settings] 	TextureQuality: 1, TextureFiltering: 1, ShadowQuality: 1
+17:18:36:667 (00008056) > [Settings] 	RT: 0
+17:18:36:667 (00008056) > [Settings] 	RTDenoiseMethod: Auto
+17:18:36:667 (00008056) > [Settings] 	AO: 1, DOF: 1, AA: 2, Bloom: 0
+17:18:36:667 (00008056) > [Settings] 	MotionBlur: 0 Tessellation: 0
+17:18:36:667 (00008056) > [Settings] 	LensFlares: 0 ScreenFX: 0 SSR: 0 HairQuality: 1
+17:18:36:667 (00008056) > [Settings] 	Specular Reflection Quality: 0
+17:18:36:667 (00008056) > [Settings] 	FOVCorrection :1.000000
+17:18:36:667 (00008056) > [Settings] 	LevelOfDetail: 2
+17:18:36:667 (00008056) > [Settings] 	StereoSeparation: 0.022000
+17:18:36:667 (00008056) > [Settings] 	StereoPopOut: 5.000000
+17:18:36:667 (00008056) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+17:18:36:667 (00008056) > [Settings] 	HDR luminance :1.000000
+17:18:36:667 (00008056) > [Settings] 	DLSS: Off
+17:18:36:667 (00008056) > [NxApp] Creating window...
+17:18:36:669 (00009948) > [GameWindow] UpdateState bVisible true
+17:18:36:682 (00009948) > [Input] Keyboard language: "English (United States)" (id: 1033)
+17:18:36:682 (00009948) > [Input] Keyboard physical layout: "US" (id: 00000409)
+17:18:36:683 (00009948) > [Input] Joystick            ""   product 3107 vendor 6700 version 272 usage 1 usagePage 12 xinput no
+17:18:36:683 (00009948) > [Input] Joystick            ""   product 49418 vendor 2522 version 4146 usage 165 usagePage 65440 xinput no
+17:18:36:684 (00009948) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 154
+17:18:36:684 (00009948) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 8 sampleRate 0 horizontalWheel no
+17:18:36:760 (00009948) > [Input] Using LibScePad
+17:18:36:761 (00009948) > [XInput] Enumerating available xusb hid devices:
+
+17:18:36:856 (00008056) > [NxApp] Window created.
+17:18:36:856 (00008056) > [NxApp] Initializing swapchain...
+17:18:36:856 (00006428) > [SwapChain] Creating...
+17:18:36:856 (00006428) > [Render] AMD Extension Version: 9.1
+
+17:18:36:856 (00006428) > [Render] AMD HD3D Extension created.
+17:18:36:856 (00006428) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
+17:18:36:856 (00006428) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1200x675
+17:18:37:022 (00006428) > [DXGI] Created swapchain.
+17:18:37:258 (00006428) > [SwapChain] Gamma correction is enabled.
+17:18:37:258 (00006428) > [SwapChain] Successfully created.
+17:18:37:258 (00006428) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1200x675
+17:18:37:258 (00008056) > [NxApp] Swapchain initialized
+17:18:37:258 (00008056) > [NxApp] Initializing renderer...
+17:18:37:260 (00008056) > [NxApp] Renderer initialized
+17:18:37:471 (00008056) > [NvShadow] Failure: NVGSDK_ERR_LOAD_LIBRARY
+17:18:37:471 (00008056) > [Ansel] Successfully initialized Ansel
+17:18:37:471 (00008056) > [Main] Starting Tomb Raider v1.0 build 449.0_64
+17:18:37:496 (00008056) > [DX12] ID3D12Device1 interface detected; enabling additional features
+17:18:37:497 (00008056) > [DX12] ID3D12Device5 interface detected
+17:18:37:497 (00008056) > [DX12] No raytracing support detected
+17:18:37:497 (00008056) > [Render] Using root signature version: 1.0
+17:18:37:498 (00008056) > [Render] Supported shader model: 0x51
+17:18:37:587 (00008056) > [DX12] AMD GCN 1.1 or higher GPU detected
+17:18:37:595 (00008056) > [D3D] R11G11B10 Typed UAV Loads are SUPPORTED.
+17:18:37:809 (00008056) > [HBAO+] HBAO+ Context creation succeeded
+17:18:38:483 (00008056) > [ GFSDK_ShadowLib]  GFSDK_ShadowLib Context creation succeeded
+17:18:38:484 (00008056) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1200x675
+17:18:38:486 (00008056) > [D3D] Enabling render target pooling
+17:18:38:486 (00008056) > [D3D] AMD driver version 20.10.44 detected, enabling copy queue!
+17:18:38:493 (00008056) > [D3D] Opened game pipeline cache file: pipe_cache.bin
+17:18:40:092 (00008056) > [D3D] Read 105402 pipelines from cache file. Added 105402 pipelines to cache, found 0 duplicates.
+17:18:40:092 (00008056) > [D3D] Closed game pipeline cache file: pipe_cache.bin
+17:18:40:131 (00008056) > [D3D] Opened user pipeline cache file: C:\Users\Iftekhar\AppData\Roaming\Eidos Montreal\Shadow of the Tomb Raider\pipe_cache.bin
+17:18:40:131 (00008056) > [D3D] Read 11 pipelines from cache file. Added 11 pipelines to cache, found 0 duplicates.
+17:18:40:131 (00008056) > [D3D] Closed user pipeline cache file: C:\Users\Iftekhar\AppData\Roaming\Eidos Montreal\Shadow of the Tomb Raider\pipe_cache.bin
+17:18:40:313 (00006756) > [D3D] cdc::PCDX12PipelineCache::AddPipeline: CreateGraphicsPipelineState failed with HRESULT 0x80070057
+17:18:40:431 (00008056) > [Sound] Default audio device Speakers Realtek(R) Audio
+17:18:43:921 (00006932) > [Audio] Using Default Audio Sink
+17:18:44:534 (00008056) > [Input] Assigned gamepad -1 to player 0
+17:18:45:594 (00008056) > [Epic] LogEOS: Large tick time detected 22.0981
+17:18:45:594 (00008056) > [Epic] LogEOS: Updating Platform SDK Config, Time: 22.098070
+17:18:45:672 (00008056) > [Validate Settings] Monitor #0
+17:18:45:672 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:45:672 (00008056) > [Validate Settings] Monitor #0
+17:18:45:672 (00008056) > [Validate Settings] Desktop settings (Resolution: 1600 x 900, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:18:46:470 (00009272) > [Audio] Using Default Audio Sink
+17:18:46:720 (00008056) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+17:18:46:721 (00008056) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+17:18:46:721 (00008056) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+17:18:46:721 (00008056) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+17:18:48:465 (00008056) > [Epic] LogEOS: SDK Config Platform Update Request Successful, Time: 24.929350
+17:18:48:492 (00008056) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+17:18:48:492 (00008056) > [Epic] LogEOSAnalytics: Record Event: SDKOverlayComponent.Init <Redacted>
+17:18:48:492 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:18:48:492 (00008056) > [Epic] WARNING: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+17:18:48:625 (00008056) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+17:18:48:625 (00008056) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+17:18:48:625 (00008056) > [Epic] LogEOS: Updating Product SDK Config, Time: 24.949425
+17:18:49:142 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:18:49:149 (00008056) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+17:18:49:156 (00008056) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+17:18:49:490 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:18:49:497 (00008056) > [Epic] LogEOS: SDK Config Product Update Request Successful, Time: 25.993937
+17:18:49:499 (00008056) > [Epic] WARNING: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+17:18:49:499 (00008056) > [Epic] WARNING: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_UnexpectedError).
+17:18:49:499 (00008056) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+17:18:49:499 (00008056) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+17:18:49:500 (00008056) > [Epic] LogEOS: SDK Config Data - Watermark: 741387304
+17:18:49:500 (00008056) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25.993937, Update Interval: 319.135101
+17:18:49:865 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:19:48:428 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:19:48:428 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:19:49:136 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:20:11:250 (00008056) > [Ansel] Set Ansel-Active: available = 0 active = 0
+17:20:23:831 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:22:24:936 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:24:08:682 (00008056) > [Epic] LogEOS: Updating Product SDK Config, Time: 345.185425
+17:24:10:209 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:24:10:246 (00008056) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+17:24:10:246 (00008056) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.711639, Update Interval: 337.164215
+17:24:23:931 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:25:10:227 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:26:23:943 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:28:24:927 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:29:51:210 (00008056) > [Epic] LogEOS: Updating Product SDK Config, Time: 687.711548
+17:29:53:574 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:29:53:607 (00008056) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+17:29:53:607 (00008056) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 690.074829, Update Interval: 301.069366
+17:30:23:990 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:30:53:576 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:32:23:976 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:34:25:074 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:34:59:024 (00008056) > [Epic] LogEOS: Updating Product SDK Config, Time: 995.525391
+17:34:59:411 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:34:59:447 (00008056) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+17:34:59:447 (00008056) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 995.912048, Update Interval: 340.551758
+17:35:59:431 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:36:24:050 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:38:24:997 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:40:25:159 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:40:48:226 (00008056) > [Epic] LogEOS: Updating Product SDK Config, Time: 1344.723877
+17:40:48:634 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:40:48:666 (00008056) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+17:40:48:666 (00008056) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1345.132080, Update Interval: 359.690552
+17:41:48:639 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:42:24:114 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:44:25:083 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:46:25:134 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:47:18:541 (00008056) > [Epic] LogEOS: Updating Product SDK Config, Time: 1735.040039
+17:47:18:910 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:47:18:942 (00008056) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+17:47:18:942 (00008056) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1735.408569, Update Interval: 309.452179
+17:48:18:929 (00008056) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+17:48:24:140 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:50:25:177 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:52:25:150 (00008056) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+17:52:51:404 (00008056) > [D3D] Saved 8 pipelines to user cache file
