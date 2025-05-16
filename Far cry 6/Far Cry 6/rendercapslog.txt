@@ -1,0 +1,12 @@
+[11:34:38:416] 
+[11:34:38:416] Amd performance data: device[5592], clock[1250], count[512]. 
+[11:34:38:416] 
+[11:34:42:717] 
+[11:34:42:717] Adapter: AMD Radeon(TM) Vega 8 Graphics. 
+[11:34:42:717] 
+[11:34:42:717] 
+[11:34:42:717] Amd score: device[5592], score[640]. 
+[11:34:42:717] 
+[11:34:43:432] 
+[11:34:43:432] Adapter: Microsoft Basic Render Driver. 
+[11:34:43:432] 

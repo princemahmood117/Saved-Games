@@ -1,0 +1,61 @@
+﻿<!--User Games.-->
+<Data Version="0">
+  <Items>
+    <UserGame>
+      <GameId>3c849ded-4a8a-4af2-9328-a6b6cf054589</GameId>
+      <ComputerId>a9bb628e-c11e-18b0-9c9a-c2683ef9e87d</ComputerId>
+      <FileName>x360ce.exe</FileName>
+      <FileProductName>X360 Controller Emulator</FileProductName>
+      <FileVersion>4.17.15.0</FileVersion>
+      <FullPath>C:\Users\Iftekhar\Downloads\Compressed\x360ce\x360ce.exe</FullPath>
+      <CompanyName>Jocys.com</CompanyName>
+      <ProcessorArchitecture>1</ProcessorArchitecture>
+      <HookMask>0</HookMask>
+      <XInputMask>4</XInputMask>
+      <DInputMask>0</DInputMask>
+      <DInputFile />
+      <FakeVID>0</FakeVID>
+      <FakePID>0</FakePID>
+      <Timeout>-1</Timeout>
+      <Weight>1</Weight>
+      <Comment>Wrapper library that translates XInput calls to DirectInput calls, for support old, no XInput compatible gamepads.</Comment>
+      <IsEnabled>true</IsEnabled>
+      <DateCreated>2024-02-24T17:20:23.2206896+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:20:23.2206896+06:00</DateUpdated>
+      <AutoMapMask>0</AutoMapMask>
+      <EnableMask>3</EnableMask>
+      <EmulationType>2</EmulationType>
+      <Checksum>00000000-0000-0000-0000-000000000000</Checksum>
+      <XInputPath />
+      <ProfileId>00000000-0000-0000-0000-000000000000</ProfileId>
+    </UserGame>
+    <UserGame>
+      <GameId>cb786917-cd0d-420c-9774-a824aa4430c3</GameId>
+      <ComputerId>a9bb628e-c11e-18b0-9c9a-c2683ef9e87d</ComputerId>
+      <FileName>Launcher.exe</FileName>
+      <FileProductName>Launcher.exe</FileProductName>
+      <FileVersion>0.0.0.0</FileVersion>
+      <FullPath>F:\Fifa\FIFA 23\Launcher.exe</FullPath>
+      <CompanyName />
+      <ProcessorArchitecture>4</ProcessorArchitecture>
+      <HookMask>0</HookMask>
+      <XInputMask>20224</XInputMask>
+      <DInputMask>0</DInputMask>
+      <DInputFile />
+      <FakeVID>0</FakeVID>
+      <FakePID>0</FakePID>
+      <Timeout>-1</Timeout>
+      <Weight>1</Weight>
+      <Comment />
+      <IsEnabled>true</IsEnabled>
+      <DateCreated>2024-02-24T17:21:06.0681835+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:21:06.0681835+06:00</DateUpdated>
+      <AutoMapMask>0</AutoMapMask>
+      <EnableMask>0</EnableMask>
+      <EmulationType>0</EmulationType>
+      <Checksum>00000000-0000-0000-0000-000000000000</Checksum>
+      <XInputPath />
+      <ProfileId>00000000-0000-0000-0000-000000000000</ProfileId>
+    </UserGame>
+  </Items>
+</Data>

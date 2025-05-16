@@ -1,0 +1,6 @@
+goto 'documents' from user (ex: ifterkhar) and paste the 'Assassin's Creed IV Black Flag' folder
+
+
+Orbuit folder(main saved games):
+
+c drive > Program data(if not found, then view hidden files) > paste 'Orbit' folder

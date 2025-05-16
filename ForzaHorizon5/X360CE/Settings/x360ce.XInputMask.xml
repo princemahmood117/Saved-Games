@@ -1,0 +1,29 @@
+﻿<!--XInput mask scan cache.-->
+<Data Version="0">
+  <Items>
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:24:48Z" Size="14101976" FullName="F:\Fifa\FIFA 23\EAAntiCheat.GameServiceLauncher.exe" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-28T13:01:53Z" Size="529263104" FullName="F:\Fifa\FIFA 23\FIFA23.exe" />
+    <XInputMaskFileInfo Mask="XInput14_x64 XInput13_x64 XInput12_x64 XInput11_x64 XInput91_x64" Modified="2023-07-18T02:06:22Z" Size="1396736" FullName="F:\Fifa\FIFA 23\Launcher.exe" />
+    <XInputMaskFileInfo Mask="None" Modified="2018-08-15T07:49:40Z" Size="117248" FullName="F:\Fifa\FIFA 23\QuickSFV.EXE" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-07-19T07:18:12Z" Size="34304" FullName="F:\Fifa\FIFA 23\FakeEAACLauncher\EAAntiCheat.GameServiceLauncher.exe" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="50736" FullName="F:\Fifa\FIFA 23\amd_ags_x64.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-06-08T06:50:53Z" Size="873984" FullName="F:\Fifa\FIFA 23\anadius64.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="6017584" FullName="F:\Fifa\FIFA 23\CardsDLL_Win64_retail.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="1062448" FullName="F:\Fifa\FIFA 23\dbdata.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="19293232" FullName="F:\Fifa\FIFA 23\dxcompiler.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="1223216" FullName="F:\Fifa\FIFA 23\dxil.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:24:48Z" Size="23029184" FullName="F:\Fifa\FIFA 23\EAAntiCheat.GameServiceLauncher.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="22025776" FullName="F:\Fifa\FIFA 23\EAWebKit.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="19504" FullName="F:\Fifa\FIFA 23\Engine.BuildInfo.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="3593776" FullName="F:\Fifa\FIFA 23\Engine.MovieVLC.LibVLC.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="4436528" FullName="F:\Fifa\FIFA 23\Engine.Render.Core2.PlatformPcDx12.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:33Z" Size="3045424" FullName="F:\Fifa\FIFA 23\Engine.Render.Core2.PlatformVulkan.dll" />
+    <XInputMaskFileInfo Mask="XInput14_x64 XInput13_x64 XInput12_x64 XInput11_x64 XInput91_x64" Modified="2023-07-19T07:16:12Z" Size="5254656" FullName="F:\Fifa\FIFA 23\FIFALiveEditor.DLL" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:34Z" Size="605744" FullName="F:\Fifa\FIFA 23\oo2core_9_win64.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:34Z" Size="778800" FullName="F:\Fifa\FIFA 23\oo2ext_9_win64.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-06-13T04:32:34Z" Size="27896" FullName="F:\Fifa\FIFA 23\preloader_l.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:29:34Z" Size="24112" FullName="F:\Fifa\FIFA 23\sysdll_Win64_retail.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2022-11-29T09:51:25Z" Size="3025816" FullName="F:\Fifa\FIFA 23\Core\Activation64.dll" />
+    <XInputMaskFileInfo Mask="None" Modified="2023-08-23T04:30:36Z" Size="2988592" FullName="F:\Fifa\FIFA 23\x64\D3D12Core.dll" />
+  </Items>
+</Data>

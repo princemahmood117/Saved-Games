@@ -1,0 +1,29 @@
+<ShutdownReport>
+<USERCONFIG_ID Value="f4bb6b7e-1213-4b4c-b408-ebf392ba73b6"/>
+<MEM_AVAILABLE Value="14978269184"/>
+<UPTIME Value="2192.031006"/>
+<TOTAL_UPTIME Value="2192.031006"/>
+<RESUME_COUNT Value="0"/>
+<TOTAL_LAUNCHES Value="0"/>
+<DATE_TIME Value="2024/05/17-15:01.13"/>
+<MEM_USED Value="10280525824"/>
+<MEM_LIMIT Value="14978269184"/>
+<UI_SCENE Value="PauseMenuTiled"/>
+<THP_WinVer Value="10.0.19045.4291"/>
+<THP_CPU0Name Value="AMD Ryzen 3 3200G with Radeon Vega Graphics    "/>
+<THP_GPU0Name Value="THP RX Vega"/>
+<THP_GPU0Description Value="AMD Radeon(TM) Vega 8 Graphics"/>
+<THP_GPU0Driver Value="31.0.21912.14"/>
+<THP_THPBucket Value="High|60|1080"/>
+<BUILD Value="642644"/>
+<PLATFORM Value="PC_Steam"/>
+<FLAVOR Value="ReleaseFinal"/>
+<SANDBOX Value="RETAIL"/>
+<CAM_POS Value="-2432.728027,185.123581,2549.319336"/>
+<SESSION_ID Value="d28b805b-c3c7-4be8-a6b4-b5b7d0dfe821"/>
+<SYSTEM_OS_VERSION Value="10.0.19045.4291"/>
+<SYSTEM_HOSTING_OS_VERSION Value="10.0.19045.4291"/>
+<SYSTEM_FAMILY Value=""/>
+<SYSTEM_FORM Value=""/>
+<SYSTEM_OS_NAME Value="Windows 10 Pro"/>
+</ShutdownReport>

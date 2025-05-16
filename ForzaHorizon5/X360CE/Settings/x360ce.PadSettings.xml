@@ -1,0 +1,25 @@
+﻿<!--User and Preset PadSettings.-->
+<Data Version="0">
+  <Items>
+    <PadSetting>
+      <PadSettingChecksum>0bedce40-09d3-2c4e-db09-4bca92452a72</PadSettingChecksum>
+      <GamePadType>1</GamePadType>
+      <LeftMotorPeriod>60</LeftMotorPeriod>
+      <RightMotorPeriod>120</RightMotorPeriod>
+      <ButtonADeadZone>8192</ButtonADeadZone>
+      <ButtonBDeadZone>8192</ButtonBDeadZone>
+      <ButtonBackDeadZone>8192</ButtonBackDeadZone>
+      <ButtonStartDeadZone>8192</ButtonStartDeadZone>
+      <ButtonXDeadZone>8192</ButtonXDeadZone>
+      <ButtonYDeadZone>8192</ButtonYDeadZone>
+      <LeftThumbButtonDeadZone>8192</LeftThumbButtonDeadZone>
+      <RightThumbButtonDeadZone>8192</RightThumbButtonDeadZone>
+      <LeftShoulderDeadZone>8192</LeftShoulderDeadZone>
+      <RightShoulderDeadZone>8192</RightShoulderDeadZone>
+      <DPadDownDeadZone>8192</DPadDownDeadZone>
+      <DPadLeftDeadZone>8192</DPadLeftDeadZone>
+      <DPadRightDeadZone>8192</DPadRightDeadZone>
+      <DPadUpDeadZone>8192</DPadUpDeadZone>
+    </PadSetting>
+  </Items>
+</Data>

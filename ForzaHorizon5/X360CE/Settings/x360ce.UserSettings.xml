@@ -1,0 +1,25 @@
+﻿<!--User Settings.-->
+<Data Version="0">
+  <Items>
+    <Setting>
+      <SettingId>40862387-c925-4890-b2e0-90199336db72</SettingId>
+      <InstanceGuid>550e45f0-d32a-11ee-8001-444553540000</InstanceGuid>
+      <InstanceName>Generic   USB  Joystick  </InstanceName>
+      <ProductGuid>00060079-0000-0000-0000-504944564944</ProductGuid>
+      <ProductName>Generic   USB  Joystick  </ProductName>
+      <DeviceType>20</DeviceType>
+      <FileName>x360ce.exe</FileName>
+      <FileProductName>X360 Controller Emulator</FileProductName>
+      <DateCreated>2024-02-24T17:21:56.1619023+06:00</DateCreated>
+      <DateUpdated>0001-01-01T00:00:00</DateUpdated>
+      <IsEnabled>true</IsEnabled>
+      <PadSettingChecksum>0bedce40-09d3-2c4e-db09-4bca92452a72</PadSettingChecksum>
+      <DateSelected>0001-01-01T00:00:00</DateSelected>
+      <MapTo>1</MapTo>
+      <Completion>0</Completion>
+      <ComputerId>00000000-0000-0000-0000-000000000000</ComputerId>
+      <ProfileId>00000000-0000-0000-0000-000000000000</ProfileId>
+      <Checksum>00000000-0000-0000-0000-000000000000</Checksum>
+    </Setting>
+  </Items>
+</Data>

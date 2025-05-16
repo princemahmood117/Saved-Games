@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4">
+  <Items>
+    <Game>
+      <GameId>be35834b-05aa-49d9-89f9-8bc4af1bf2c5</GameId>
+      <DiskDriveId>a9bb628e-c11e-18b0-9c9a-c2683ef9e87d</DiskDriveId>
+      <FileName>x360ce_x64.exe</FileName>
+      <FileProductName>X360 Controller Emulator</FileProductName>
+      <FileVersion>3.2.10.82</FileVersion>
+      <FullPath>C:\Users\Iftekhar\Downloads\Compressed\x360ce_x64\x360ce_x64.exe</FullPath>
+      <CompanyName>TocaEdit</CompanyName>
+      <HookMask>0</HookMask>
+      <XInputMask>256</XInputMask>
+      <Comment>Wrapper library that translates XInput calls to DirectInput calls, for support old, no XInput compatible gamepads.</Comment>
+      <IsEnabled>true</IsEnabled>
+      <DateCreated>2024-02-24T17:07:27.6458901+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:07:27.6458901+06:00</DateUpdated>
+      <ProcessorArchitecture>4</ProcessorArchitecture>
+      <DInputMask>0</DInputMask>
+      <DInputFile />
+      <FakeVID>0</FakeVID>
+      <FakePID>0</FakePID>
+      <Timeout>-1</Timeout>
+      <SettingChecksum xsi:nil="true" />
+      <Weight>1</Weight>
+    </Game>
+    <Game>
+      <GameId>aa013968-a89a-4826-b9f4-a4f6c903efed</GameId>
+      <DiskDriveId>a9bb628e-c11e-18b0-9c9a-c2683ef9e87d</DiskDriveId>
+      <FileName>Launcher.exe</FileName>
+      <FileProductName>Launcher.exe</FileProductName>
+      <FileVersion>0.0.0.0</FileVersion>
+      <FullPath>F:\Fifa\FIFA 23\Launcher.exe</FullPath>
+      <CompanyName />
+      <HookMask>0</HookMask>
+      <XInputMask>256</XInputMask>
+      <Comment />
+      <IsEnabled>true</IsEnabled>
+      <DateCreated>2024-02-24T17:17:36.6028134+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:17:36.6028134+06:00</DateUpdated>
+      <ProcessorArchitecture>4</ProcessorArchitecture>
+      <DInputMask>0</DInputMask>
+      <DInputFile />
+      <FakeVID>0</FakeVID>
+      <FakePID>0</FakePID>
+      <Timeout>-1</Timeout>
+      <SettingChecksum xsi:nil="true" />
+      <Weight>1</Weight>
+    </Game>
+  </Items>
+</Data>

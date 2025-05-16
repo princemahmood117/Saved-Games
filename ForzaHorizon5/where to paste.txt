@@ -1,0 +1,11 @@
+1. open users (iftekhar)
+
+2. go-to AppData (if not visible, then check view hidden items)
+
+3. go-to 'local' 
+
+4. now paste the above folder 'ForzaHorizon5' 
+
+
+
+'X360CE' paste this inside programdata folder inside C drive (optional)

@@ -1,0 +1,146 @@
+﻿<!--User Devices (Direct Input).-->
+<Data Version="0">
+  <Items>
+    <UserDevice>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <ComputerId>00000000-0000-0000-0000-000000000000</ComputerId>
+      <InstanceGuid>6f1d2b61-d5a0-11cf-bfc7-444553540000</InstanceGuid>
+      <InstanceName>Keyboard</InstanceName>
+      <ProductGuid>6f1d2b61-d5a0-11cf-bfc7-444553540000</ProductGuid>
+      <ProductName>Keyboard</ProductName>
+      <CapAxeCount>0</CapAxeCount>
+      <CapButtonCount>128</CapButtonCount>
+      <CapDriverVersion>0</CapDriverVersion>
+      <CapFirmwareRevision>0</CapFirmwareRevision>
+      <CapFlags>5</CapFlags>
+      <CapForceFeedbackMinimumTimeResolution>0</CapForceFeedbackMinimumTimeResolution>
+      <CapForceFeedbackSamplePeriod>0</CapForceFeedbackSamplePeriod>
+      <CapHardwareRevision>0</CapHardwareRevision>
+      <CapPovCount>0</CapPovCount>
+      <CapIsHumanInterfaceDevice>false</CapIsHumanInterfaceDevice>
+      <CapSubtype>4</CapSubtype>
+      <CapType>19</CapType>
+      <HidVendorId>0</HidVendorId>
+      <HidProductId>0</HidProductId>
+      <HidRevision>0</HidRevision>
+      <HidClassGuid>00000000-0000-0000-0000-000000000000</HidClassGuid>
+      <DevManufacturer />
+      <DevVendorId>0</DevVendorId>
+      <DevProductId>0</DevProductId>
+      <DevRevision>0</DevRevision>
+      <DevDescription />
+      <DevDeviceId />
+      <DevDevicePath />
+      <DevParentDeviceId />
+      <DevClassGuid>00000000-0000-0000-0000-000000000000</DevClassGuid>
+      <DevClassDescription />
+      <DateCreated>2024-02-24T17:20:26.853456+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:20:26.853456+06:00</DateUpdated>
+      <IsEnabled>true</IsEnabled>
+      <Checksum>00000000-0000-0000-0000-000000000000</Checksum>
+      <DiAxeMask>0</DiAxeMask>
+      <DiSliderMask>0</DiSliderMask>
+      <IsHidden>false</IsHidden>
+      <DiActuatorMask>0</DiActuatorMask>
+      <DiActuatorCount>0</DiActuatorCount>
+      <ProfileId>00000000-0000-0000-0000-000000000000</ProfileId>
+      <ConnectionClass>00000000-0000-0000-0000-000000000000</ConnectionClass>
+    </UserDevice>
+    <UserDevice>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <ComputerId>00000000-0000-0000-0000-000000000000</ComputerId>
+      <InstanceGuid>6f1d2b60-d5a0-11cf-bfc7-444553540000</InstanceGuid>
+      <InstanceName>Mouse</InstanceName>
+      <ProductGuid>6f1d2b60-d5a0-11cf-bfc7-444553540000</ProductGuid>
+      <ProductName>Mouse</ProductName>
+      <CapAxeCount>3</CapAxeCount>
+      <CapButtonCount>8</CapButtonCount>
+      <CapDriverVersion>0</CapDriverVersion>
+      <CapFirmwareRevision>0</CapFirmwareRevision>
+      <CapFlags>5</CapFlags>
+      <CapForceFeedbackMinimumTimeResolution>0</CapForceFeedbackMinimumTimeResolution>
+      <CapForceFeedbackSamplePeriod>0</CapForceFeedbackSamplePeriod>
+      <CapHardwareRevision>0</CapHardwareRevision>
+      <CapPovCount>0</CapPovCount>
+      <CapIsHumanInterfaceDevice>false</CapIsHumanInterfaceDevice>
+      <CapSubtype>1</CapSubtype>
+      <CapType>18</CapType>
+      <HidVendorId>0</HidVendorId>
+      <HidProductId>0</HidProductId>
+      <HidRevision>0</HidRevision>
+      <HidClassGuid>00000000-0000-0000-0000-000000000000</HidClassGuid>
+      <DevManufacturer />
+      <DevVendorId>0</DevVendorId>
+      <DevProductId>0</DevProductId>
+      <DevRevision>0</DevRevision>
+      <DevDescription />
+      <DevDeviceId />
+      <DevDevicePath />
+      <DevParentDeviceId />
+      <DevClassGuid>00000000-0000-0000-0000-000000000000</DevClassGuid>
+      <DevClassDescription />
+      <DateCreated>2024-02-24T17:20:26.8524526+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:20:26.8524526+06:00</DateUpdated>
+      <IsEnabled>true</IsEnabled>
+      <Checksum>00000000-0000-0000-0000-000000000000</Checksum>
+      <DiAxeMask>0</DiAxeMask>
+      <DiSliderMask>0</DiSliderMask>
+      <IsHidden>false</IsHidden>
+      <DiActuatorMask>0</DiActuatorMask>
+      <DiActuatorCount>0</DiActuatorCount>
+      <ProfileId>00000000-0000-0000-0000-000000000000</ProfileId>
+      <ConnectionClass>00000000-0000-0000-0000-000000000000</ConnectionClass>
+    </UserDevice>
+    <UserDevice>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <ComputerId>00000000-0000-0000-0000-000000000000</ComputerId>
+      <InstanceGuid>550e45f0-d32a-11ee-8001-444553540000</InstanceGuid>
+      <InstanceName>Generic   USB  Joystick  </InstanceName>
+      <ProductGuid>00060079-0000-0000-0000-504944564944</ProductGuid>
+      <ProductName>Generic   USB  Joystick  </ProductName>
+      <CapAxeCount>5</CapAxeCount>
+      <CapButtonCount>12</CapButtonCount>
+      <CapDriverVersion>0</CapDriverVersion>
+      <CapFirmwareRevision>0</CapFirmwareRevision>
+      <CapFlags>5</CapFlags>
+      <CapForceFeedbackMinimumTimeResolution>0</CapForceFeedbackMinimumTimeResolution>
+      <CapForceFeedbackSamplePeriod>0</CapForceFeedbackSamplePeriod>
+      <CapHardwareRevision>0</CapHardwareRevision>
+      <CapPovCount>1</CapPovCount>
+      <CapIsHumanInterfaceDevice>true</CapIsHumanInterfaceDevice>
+      <CapSubtype>258</CapSubtype>
+      <CapType>20</CapType>
+      <HidManufacturer>DragonRise Inc.  </HidManufacturer>
+      <HidVendorId>121</HidVendorId>
+      <HidProductId>6</HidProductId>
+      <HidRevision>263</HidRevision>
+      <HidDescription>Generic   USB  Joystick  </HidDescription>
+      <HidDeviceId>HID\VID_0079&amp;PID_0006\7&amp;1A4578E5&amp;0&amp;0000</HidDeviceId>
+      <HidDevicePath>\\?\hid#vid_0079&amp;pid_0006#7&amp;1a4578e5&amp;0&amp;0000#{4d1e55b2-f16f-11cf-88cb-001111000030}</HidDevicePath>
+      <HidParentDeviceId>USB\VID_0079&amp;PID_0006\6&amp;3950927A&amp;0&amp;4</HidParentDeviceId>
+      <HidClassGuid>745a17a0-74d3-11d0-b6fe-00a0c90f57da</HidClassGuid>
+      <HidClassDescription>Human Interface Devices</HidClassDescription>
+      <DevManufacturer>DragonRise Inc.  </DevManufacturer>
+      <DevVendorId>121</DevVendorId>
+      <DevProductId>6</DevProductId>
+      <DevRevision>263</DevRevision>
+      <DevDescription>Generic   USB  Joystick  </DevDescription>
+      <DevDeviceId>HID\VID_0079&amp;PID_0006\7&amp;1A4578E5&amp;0&amp;0000</DevDeviceId>
+      <DevDevicePath />
+      <DevParentDeviceId>USB\VID_0079&amp;PID_0006\6&amp;3950927A&amp;0&amp;4</DevParentDeviceId>
+      <DevClassGuid>745a17a0-74d3-11d0-b6fe-00a0c90f57da</DevClassGuid>
+      <DevClassDescription>Human Interface Devices</DevClassDescription>
+      <DateCreated>2024-02-24T17:20:26.8203463+06:00</DateCreated>
+      <DateUpdated>2024-02-24T17:20:26.8203463+06:00</DateUpdated>
+      <IsEnabled>true</IsEnabled>
+      <Checksum>00000000-0000-0000-0000-000000000000</Checksum>
+      <DiAxeMask>39</DiAxeMask>
+      <DiSliderMask>0</DiSliderMask>
+      <IsHidden>false</IsHidden>
+      <DiActuatorMask>0</DiActuatorMask>
+      <DiActuatorCount>0</DiActuatorCount>
+      <ProfileId>00000000-0000-0000-0000-000000000000</ProfileId>
+      <ConnectionClass>36fc9e60-c465-11cf-8056-444553540000</ConnectionClass>
+    </UserDevice>
+  </Items>
+</Data>

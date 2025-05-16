@@ -1,0 +1,38 @@
+﻿<!--x360ce Options-->
+<Data Version="0">
+  <Items>
+    <Options>
+      <AppVersion>4.17.15.0</AppVersion>
+      <AllowOnlyOneCopy>true</AllowOnlyOneCopy>
+      <ShowProgramsTab>false</ShowProgramsTab>
+      <ShowSettingsTab>false</ShowSettingsTab>
+      <ShowDevicesTab>true</ShowDevicesTab>
+      <ShowIniTab>false</ShowIniTab>
+      <UseDeviceBufferedData>false</UseDeviceBufferedData>
+      <InternetDatabaseUrls>
+        <string>http://www.x360ce.com/webservices/x360ce.asmx</string>
+        <string>http://localhost:20360/webservices/x360ce.asmx</string>
+      </InternetDatabaseUrls>
+      <GameScanLocations />
+      <ComputerDisk>PR=ST1000DM010-2EP102,RV=CC43,SN=ZN1K1EC9</ComputerDisk>
+      <ComputerId>a9bb628e-c11e-18b0-9c9a-c2683ef9e87d</ComputerId>
+      <ProfilePath>C:\ProgramData\X360CE</ProfilePath>
+      <ProfileId>9e09a38c-ef6d-1a7f-863e-d39351a298db</ProfileId>
+      <IncludeProductsInsideINI>false</IncludeProductsInsideINI>
+      <Username />
+      <ExcludeSupplementalDevices>false</ExcludeSupplementalDevices>
+      <ExcludeVirtualDevices>false</ExcludeVirtualDevices>
+      <RemoteControllers>None</RemoteControllers>
+      <RemotePassword />
+      <RemotePort>26010</RemotePort>
+      <RemoteEnabled>false</RemoteEnabled>
+      <TestEnabled>false</TestEnabled>
+      <TestGetDInputStates>false</TestGetDInputStates>
+      <TestSetXInputStates>false</TestSetXInputStates>
+      <TestUpdateInterface>false</TestUpdateInterface>
+      <TestCheckIssues>false</TestCheckIssues>
+      <ShowDebugPanel>false</ShowDebugPanel>
+      <GetXInputStates>true</GetXInputStates>
+    </Options>
+  </Items>
+</Data>

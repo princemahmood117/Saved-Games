@@ -1,0 +1,73 @@
+﻿<!--Most popular layouts for Games.-->
+<Data Version="0">
+  <Items>
+    <Layout>
+      <Id>00000000-0000-0000-0000-000000000000</Id>
+      <Name>Default</Name>
+      <ButtonA>A Button</ButtonA>
+      <ButtonB>B Button</ButtonB>
+      <ButtonBack>Back</ButtonBack>
+      <ButtonGuide>Guide</ButtonGuide>
+      <ButtonStart>Start</ButtonStart>
+      <ButtonX>X Button</ButtonX>
+      <ButtonY>Y Button</ButtonY>
+      <DPad>D-Pad</DPad>
+      <DPadDown>D-Pad Down</DPadDown>
+      <DPadLeft>D-Pad Left</DPadLeft>
+      <DPadRight>D-Pad Right</DPadRight>
+      <DPadUp>D-Pad Up</DPadUp>
+      <LeftShoulder>Bumper</LeftShoulder>
+      <LeftThumbAxisX>Stick Axis X</LeftThumbAxisX>
+      <LeftThumbAxisY>Stick Axis Y</LeftThumbAxisY>
+      <LeftThumbButton>Stick Button</LeftThumbButton>
+      <LeftThumbDown>Stick Down</LeftThumbDown>
+      <LeftThumbLeft>Stick Left</LeftThumbLeft>
+      <LeftThumbRight>Stick Right</LeftThumbRight>
+      <LeftThumbUp>Stick Up</LeftThumbUp>
+      <LeftTrigger>Trigger</LeftTrigger>
+      <RightShoulder>Bumper</RightShoulder>
+      <RightThumbAxisX>Stick Axis X</RightThumbAxisX>
+      <RightThumbAxisY>Stick Axis Y</RightThumbAxisY>
+      <RightThumbButton>Stick Button</RightThumbButton>
+      <RightThumbDown>Stick Down</RightThumbDown>
+      <RightThumbLeft>Stick Left</RightThumbLeft>
+      <RightThumbRight>Stick Right</RightThumbRight>
+      <RightThumbUp>Stick Up</RightThumbUp>
+      <RightTrigger>Trigger</RightTrigger>
+    </Layout>
+    <Layout>
+      <Id>00000000-0000-0000-0000-000000000001</Id>
+      <Name>On Foot</Name>
+      <ButtonA>Answer/Block</ButtonA>
+      <ButtonB>Hangup/Punch</ButtonB>
+      <ButtonBack>Camera Modes</ButtonBack>
+      <ButtonGuide>Guide</ButtonGuide>
+      <ButtonStart>Pause Menu</ButtonStart>
+      <ButtonX>Jump/Kick</ButtonX>
+      <ButtonY>Enter/Melee</ButtonY>
+      <DPad>D-Pad</DPad>
+      <DPadDown>Phone Down</DPadDown>
+      <DPadLeft>Prev Weapon</DPadLeft>
+      <DPadRight>Next Weapon</DPadRight>
+      <DPadUp>Phone Up</DPadUp>
+      <LeftShoulder>Pick Up</LeftShoulder>
+      <LeftThumbAxisX>Movement</LeftThumbAxisX>
+      <LeftThumbAxisY>Movement</LeftThumbAxisY>
+      <LeftThumbButton>Crouch</LeftThumbButton>
+      <LeftThumbDown>Stick Down</LeftThumbDown>
+      <LeftThumbLeft>Stick Left</LeftThumbLeft>
+      <LeftThumbRight>Stick Right</LeftThumbRight>
+      <LeftThumbUp>Stick Up</LeftThumbUp>
+      <LeftTrigger>Target Lock</LeftTrigger>
+      <RightShoulder>Cover</RightShoulder>
+      <RightThumbAxisX>Switch Target</RightThumbAxisX>
+      <RightThumbAxisY>Switch Target</RightThumbAxisY>
+      <RightThumbButton>Look/Aim</RightThumbButton>
+      <RightThumbDown>Stick Down</RightThumbDown>
+      <RightThumbLeft>Stick Left</RightThumbLeft>
+      <RightThumbRight>Stick Right</RightThumbRight>
+      <RightThumbUp>Stick Up</RightThumbUp>
+      <RightTrigger>Fire</RightTrigger>
+    </Layout>
+  </Items>
+</Data>
