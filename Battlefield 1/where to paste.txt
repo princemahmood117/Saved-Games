@@ -1,0 +1,1 @@
+select and copy "Battlefield 1" main folder and paste it inside the Documents.
